@@ -21,5 +21,7 @@ Instructions:
 2. Launch neural_router.py and integrate CFA in you app with the help python FastAPI
 # Information
 neural network: CFA
+
 version: 1.5 (1.1)
+
 model: cfa/cfa-v1-v5-Pro
