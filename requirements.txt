@@ -1,0 +1,12 @@
+fastapi>=0.95.0
+uvicorn>=0.22.0
+torch>=2.1.0
+transformers>=4.34.0
+datasets>=2.14.0
+peft>=0.6.0
+accelerate>=0.24.0
+flash-attn>=2.3.0
+bitsandbytes>=0.41.0
+tensorboard>=2.14.0
+scipy>=1.11.0
+protobuf>=3.20.0
